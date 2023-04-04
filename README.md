@@ -1,6 +1,6 @@
 # Student Rating System
 
-The Student Project Rating System is a project aimed at evaluating and analyzing the digital traces of students' project work. The project began in August 2022 and is still ongoing.
+The Student Project Rating System is a project aimed at evaluating and analyzing the digital traces of students' project work.
 
 ## Tools and Technologies Used
 
